@@ -23,7 +23,7 @@ if(app.get('env') === 'development'){
 }
 
 //trabajos con la BD
-dbDebug('conextando con la BD');
+//dbDebug('conextando con la BD');
 
 //app.use(logger);
 
